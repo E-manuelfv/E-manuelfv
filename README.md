@@ -10,11 +10,9 @@ I turn ideas into functional systems—whether it's a **Unity game, Arduino-powe
 
 ---
 
-## 🎮 Simulator Game (Click to Play!)
-<!-- GitHub README doesn't support JS, but you can link to a live demo -->
-[![FRC Game Simulator 23/24](https://img.shields.io/badge/Play-Snake_Game-2ea44f?style=for-the-badge&logo=unity)]((https://emanuelfv.itch.io/frc-game-simulator)-demo)  
-*( CHARGED UP (2023/2024) FIRST Robotics Competition simulator*  
-
+## 🎮 FRC Game Simulator (Click to Play!)
+*CHARGED UP (2023/2024) FIRST Robotics Competition simulator*  
+[![Play FRC Simulator](https://img.shields.io/badge/Play FRC Simulator-2ea44f?style=for-the-badge&logo=unity)](https://emanuelfv.itch.io/frc-game-simulator)
 ---
 
 ## 🔗 Connect  
@@ -52,10 +50,9 @@ I turn ideas into functional systems—whether it's a **Unity game, Arduino-powe
 ---
 
 ## 🔥 Current Projects  
-1. **🤖 Arduino-Powered Robot Arm**  
-   *Control a 3D-printed arm with Python scripts and servo motors.*  
-   ![Repo Star](https://img.shields.io/github/stars/yourusername/robot-arm?style=social)  
+🤖 Embedded Robotic Control System (Coming Soon...)
+A customizable embedded system for robotic applications using Python/C++ and servo control.
 
-2. **🎮 Unity Snake Game with Robotic Controls**  
-   *Play Snake using an Arduino joystick!*  
-   [![Demo](https://img.shields.io/badge/Try_Demo-2ea44f?style=flat-square)]([https://yourgithub.io/snake-game](https://emanuelfv.itch.io/frc-game-simulator))
+## 2. 🎮 FRC Game Simulator: Robotic Snake Challenge  
+*Control a Snake-style game with Arduino inputs—designed for FIRST Robotics training!*  
+[![Play Now](https://img.shields.io/badge/Play_Now-FF7139?style=flat-square&logo=itch.io&logoColor=white)](https://emanuelfv.itch.io/frc-game-simulator)
