@@ -12,7 +12,7 @@ I turn ideas into functional systems—whether it's a **Unity game, Arduino-powe
 
 ## 🎮 FRC Game Simulator (Click to Play!)
 *CHARGED UP (2023/2024) FIRST Robotics Competition simulator*  
-[![Play FRC Simulator](https://img.shields.io/badge/Play FRC Simulator-2ea44f?style=for-the-badge&logo=unity)](https://emanuelfv.itch.io/frc-game-simulator)
+[<img src="https://img.shields.io/badge/Play-FRC_Snake_Game-2ea44f?style=for-the-badge&logo=unity" width="200">](https://emanuelfv.itch.io/frc-game-simulator)
 ---
 
 ## 🔗 Connect  
@@ -50,7 +50,7 @@ I turn ideas into functional systems—whether it's a **Unity game, Arduino-powe
 ---
 
 ## 🔥 Current Projects  
-🤖 Embedded Robotic Control System (Coming Soon...)
+## 1. 🤖 Embedded Robotic Control System (Coming Soon...)
 A customizable embedded system for robotic applications using Python/C++ and servo control.
 
 ## 2. 🎮 FRC Game Simulator: Robotic Snake Challenge  
