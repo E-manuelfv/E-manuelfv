@@ -1,19 +1,19 @@
-<h1 align="center">🤖 Emanuel Ferreira | Robotics & Full-Stack Dev</h1>
+<h1 align="center">Emanuel Ferreira | Robotics & Full-Stack Dev</h1>
 
 ## 👨‍💻 About Me
-🇧🇷 Brazilian developer passionate about **automation, game dev, and embedded systems**.  
-🔧 I turn ideas into functional systems—whether it's a **Unity game, Arduino-powered bot, or web app**.  
+Brazilian developer passionate about **automation, game dev, and embedded systems**.  
+I turn ideas into functional systems—whether it's a **Unity game, Arduino-powered bot, or web app**.  
 
-- 🎮 **Game Dev Enthusiast**: Building immersive experiences with Unity & Blender.  
-- 🤖 **Robotics Tinkerer**: Arduino, sensors, and automation projects.  
-- 🌱 **Always Learning**: From Python scripts to 3D modeling.  
+- **Game Dev Technician**: Building immersive experiences with Unity & Blender.  
+- **Robotics Enthusiast**: Arduino, sensors, and automation projects.  
+- **Always Learning**: From Python scripts to 3D modeling.  
 
 ---
 
-## 🎮 Embedded Snake Game (Click to Play!)
+## 🎮 Simulator Game (Click to Play!)
 <!-- GitHub README doesn't support JS, but you can link to a live demo -->
-[![Snake Game](https://img.shields.io/badge/Play-Snake_Game-2ea44f?style=for-the-badge&logo=unity)](https://yourgithub.io/snake-game-demo)  
-*(A retro Snake game I built with **JavaScript/C#** for robotics-inspired controls!)*  
+[![FRC Game Simulator 23/24](https://img.shields.io/badge/Play-Snake_Game-2ea44f?style=for-the-badge&logo=unity)]((https://emanuelfv.itch.io/frc-game-simulator)-demo)  
+*( CHARGED UP (2023/2024) FIRST Robotics Competition simulator*  
 
 ---
 
@@ -35,14 +35,12 @@
 ## 🛠️ Robotics-Focused Tech Stack  
 **Embedded & Automation**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 **Game Dev & 3D**  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
 
 **Web Dev**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 
 ---
@@ -60,4 +58,4 @@
 
 2. **🎮 Unity Snake Game with Robotic Controls**  
    *Play Snake using an Arduino joystick!*  
-   [![Demo](https://img.shields.io/badge/Try_Demo-2ea44f?style=flat-square)](https://yourgithub.io/snake-game)
+   [![Demo](https://img.shields.io/badge/Try_Demo-2ea44f?style=flat-square)]([https://yourgithub.io/snake-game](https://emanuelfv.itch.io/frc-game-simulator))
