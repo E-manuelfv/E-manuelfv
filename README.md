@@ -12,7 +12,7 @@ I turn ideas into functional systems—whether it's a **Unity game, Arduino-powe
 
 ## 🎮 FRC Game Simulator (Click to Play!)
 *CHARGED UP (2023/2024) FIRST Robotics Competition simulator*  
-[<img src="https://img.shields.io/badge/Play-FRC_Snake_Game-2ea44f?style=for-the-badge&logo=unity" width="200">](https://emanuelfv.itch.io/frc-game-simulator)
+[<img src="https://img.shields.io/badge/Play-FRC_Game-2ea44f?style=for-the-badge&logo=unity" width="200">](https://emanuelfv.itch.io/frc-game-simulator)
 ---
 
 ## 🔗 Connect  
@@ -23,7 +23,7 @@ I turn ideas into functional systems—whether it's a **Unity game, Arduino-powe
   <a href="https://instagram.com/e.manuelfv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/E-manuelfv" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
