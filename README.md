@@ -44,8 +44,8 @@ I turn ideas into functional systems—whether it's a **Unity game, Arduino-powe
 ---
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-manuelfv&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-manuelfv&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)  
 
 ---
 
