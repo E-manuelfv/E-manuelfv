@@ -1,18 +1,22 @@
-<h1 align="center">Emanuel Ferreira | Robotics & Full-Stack Dev</h1>
+# 🚀 Emanuel Ferreira | Robotics, Game Dev & Full-Stack
 
-## 👨‍💻 About Me
-Brazilian developer passionate about **automation, game dev, and embedded systems**.  
-I turn ideas into functional systems—whether it's a **Unity game, Arduino-powered bot, or web app**.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Robotics+Developer;Game+Creator;Automation+Enthusiast" alt="Typing SVG">
+</p>
 
-- **Game Dev Technician**: Building immersive experiences with Unity & Blender.  
-- **Robotics Enthusiast**: Arduino, sensors, and automation projects.  
-- **Always Learning**: From Python scripts to 3D modeling.  
-
+## 👨‍🔬 About Me
+Brazilian **educator and developer** bridging the gap between technology and learning through:
+- 🎮 **Immersive Game Development** with Unity & Blender
+- 🤖 **Practical Robotics** with Arduino & embedded systems
+- 🏫 **Educational Technology** that makes STEAM accessible
 ---
 
-## 🎮 FRC Game Simulator (Click to Play!)
-*CHARGED UP (2023/2024) FIRST Robotics Competition simulator*  
-[<img src="https://img.shields.io/badge/Play-FRC_Game-2ea44f?style=for-the-badge&logo=unity" width="200">](https://emanuelfv.itch.io/frc-game-simulator)
+## 🎓 Featured Educational Project
+
+### 🤖 FRC Game Simulator
+*A hands-on simulator for teaching robotics concepts through gameplay (FIRST Robotics Competition 2023/2024)*  
+[![Try in Browser](https://img.shields.io/badge/Web_Build-Playable_Now-2ea44f?style=for-the-badge&logo=unity)](https://emanuelfv.itch.io/frc-game-simulator)
+[![Download Executable](https://img.shields.io/badge/Windows-Local_Version-0078D6?style=for-the-badge&logo=windows)](https://github.com/E-manuelfv/FRC-Simulator/releases)
 ---
 
 ## 🔗 Connect  
@@ -30,22 +34,30 @@ I turn ideas into functional systems—whether it's a **Unity game, Arduino-powe
 
 ---
 
-## 🛠️ Robotics-Focused Tech Stack  
-**Embedded & Automation**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+## 🛠️ My Teaching & Development Toolkit
 
-**Game Dev & 3D**  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
+### 🎮 Game Development
+| Engine | Modeling | Programming |
+|--------|----------|-------------|
+| [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com) | [![Blender](https://skillicons.dev/icons?i=blender)](https://blender.org) | [![C#](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/) |
 
-**Web Dev**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+### 🤖 Robotics & Automation
+| Embedded | Electronics | Control |
+|----------|-------------|---------|
+| [![Arduino](https://skillicons.dev/icons?i=arduino)](https://arduino.cc) | [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://raspberrypi.org) | [![Python](https://skillicons.dev/icons?i=python)](https://python.org) |
+
+### 🌐 Full-Stack Development
+| Frontend | Backend | Database |
+|----------|---------|----------|
+| [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com) | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com) |
 
 ---
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-manuelfv&layout=donut&show_icon=true&theme=gruvbox)](https://github.com/E-manuelfv/github-readme-stats)
-<br>
+## 📈 GitHub Activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-manuelfv&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/E-manuelfv)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-manuelfv&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/E-manuelfv)
+
 ---
 
 ## 🔥 Current Projects  
