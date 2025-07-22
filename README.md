@@ -1,4 +1,4 @@
-# 🚀 Emanuel Ferreira | Robotics, Game Dev & Full-Stack
+<h1 align="center"> 🚀 Emanuel Ferreira | Robotics & Full-Stack </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Robotics+Developer;Game+Creator;Automation+Enthusiast" alt="Typing SVG">
