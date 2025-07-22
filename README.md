@@ -39,13 +39,13 @@ Brazilian **educator and developer** bridging the gap between technology and lea
 
 ### 🎮 Game Development
 | Engine | Modeling | Programming |
-|--------|----------|-------------|
+|--------|----------|-----------|
 | [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com) | [![Blender](https://skillicons.dev/icons?i=blender)](https://blender.org) | [![C#](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/) |
 
 ### 🤖 Robotics & Automation
-| Embedded | Electronics | Control |
-|----------|-------------|---------|
-| [![Arduino](https://skillicons.dev/icons?i=arduino)](https://arduino.cc) | [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://raspberrypi.org) | [![Python](https://skillicons.dev/icons?i=python)](https://python.org) |
+| Embedded | Control |
+|----------|---------|
+| [![Arduino](https://skillicons.dev/icons?i=arduino)](https://arduino.cc) | [![Python](https://skillicons.dev/icons?i=python)](https://python.org) |
 
 ### 🌐 Full-Stack Development
 | Frontend | Backend | Database |
@@ -56,15 +56,6 @@ Brazilian **educator and developer** bridging the gap between technology and lea
 
 ## 📈 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-manuelfv&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/E-manuelfv)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-manuelfv&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/E-manuelfv)
 
 ---
-
-## 🔥 Current Projects  
-## 1. 🤖 Embedded Robotic Control System (Coming Soon...)
-A customizable embedded system for robotic applications using Python/C++ and servo control.
-
-## 2. 🎮 FRC Game Simulator: Robotic Snake Challenge  
-*Control a Snake-style game with Arduino inputs—designed for FIRST Robotics training!*  
-[![Play Now](https://img.shields.io/badge/Play_Now-FF7139?style=flat-square&logo=itch.io&logoColor=white)](https://emanuelfv.itch.io/frc-game-simulator)
