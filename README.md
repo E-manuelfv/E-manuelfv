@@ -1,7 +1,7 @@
 <h1 align="center"> 🚀 Emanuel Ferreira | Robotics & Full-Stack </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Robotics+Developer;Game+Creator;Automation+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Full-Stack+Developer;Game+Creator;Automation+Enthusiast" alt="Typing SVG">
 </p>
 
 ## 👨‍🔬 About Me
@@ -14,9 +14,10 @@ Brazilian **educator and developer** bridging the gap between technology and lea
 ## 🎓 Featured Educational Project
 
 ### 🤖 FRC Game Simulator
+
 *A hands-on simulator for teaching robotics concepts through gameplay (FIRST Robotics Competition 2023/2024)*  
+
 [![Try in Browser](https://img.shields.io/badge/Web_Build-Playable_Now-2ea44f?style=for-the-badge&logo=unity)](https://emanuelfv.itch.io/frc-game-simulator)
-[![Download Executable](https://img.shields.io/badge/Windows-Local_Version-0078D6?style=for-the-badge&logo=windows)](https://github.com/E-manuelfv/FRC-Simulator/releases)
 ---
 
 ## 🔗 Connect  
