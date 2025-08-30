@@ -1,61 +1,13 @@
-<h1 align="center"> 🚀 Emanuel Ferreira | Robotics & Full-Stack </h1>
+<h1 align="center">Olá 👋, sou CLEBER</h1>
+<h3 align="center">Um desenvolvedor front-end apaixonado da Índia</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Full-Stack+Developer;Game+Creator;Automation+Enthusiast" alt="Typing SVG">
-</p>
-
-## 👨‍🔬 About Me
-Brazilian **educator and developer** bridging the gap between technology and learning through:
-- 🎮 **Immersive Game Development** with Unity & Blender
-- 🤖 **Practical Robotics** with Arduino & embedded systems
-- 🏫 **Educational Technology** that makes STEAM accessible
----
-
-## 🎓 Featured Educational Project
-
-### 🤖 FRC Game Simulator
-
-*A hands-on simulator for teaching robotics concepts through gameplay (FIRST Robotics Competition 2023/2024)*  
-
-[![Try in Browser](https://img.shields.io/badge/Web_Build-Playable_Now-2ea44f?style=for-the-badge&logo=unity)](https://emanuelfv.itch.io/frc-game-simulator)
----
-
-## 🔗 Connect  
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/emanuel-ferreira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/e.manuelfv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/E-manuelfv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
----
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" altura="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🛠️ My Teaching & Development Toolkit
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-manuelfv&show_icons=true&locale=en&layout=compact" alt="e-manuelfv" /></p>
 
-### 🎮 Game Development
-| Engine | Modeling | Programming |
-|--------|----------|-----------|
-| [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com) | [![Blender](https://skillicons.dev/icons?i=blender)](https://blender.org) | [![C#](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/) |
-
-### 🤖 Robotics & Automation
-| Embedded | Control |
-|----------|---------|
-| [![Arduino](https://skillicons.dev/icons?i=arduino)](https://arduino.cc) | [![Python](https://skillicons.dev/icons?i=python)](https://python.org) |
-
-### 🌐 Full-Stack Development
-| Frontend | Backend | Database |
-|----------|---------|----------|
-| [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com) | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com) |
-
----
-
-## 📈 GitHub Activity
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-manuelfv&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/E-manuelfv)
-
----
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=e-manuelfv&show_icons=true&locale=en" alt="e-manuelfv" /></p>
