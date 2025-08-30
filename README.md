@@ -1,13 +1,93 @@
-<h1 align="center">Olá 👋, sou CLEBER</h1>
-<h3 align="center">Um desenvolvedor front-end apaixonado da Índia</h3>
+# 🚀 Emanuel Ferreira  
+### *Desenvolvedor Full-Stack & Educador em Tecnologia*
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=Emanuel%20Ferreira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Desenvolvedor+Full-Stack;Criador+de+Jogos;Entusiasta+de+Automação" alt="Typing SVG">
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" altura="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-manuelfv&show_icons=true&locale=en&layout=compact" alt="e-manuelfv" /></p>
+## 👨‍🔬 Sobre Mim
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=e-manuelfv&show_icons=true&locale=en" alt="e-manuelfv" /></p>
+Sou um **educador e desenvolvedor brasileiro** apaixonado por unir tecnologia e educação através de:
+
+- 🎮 **Desenvolvimento de Jogos Imersivos** com Unity & Blender
+- 🤖 **Robótica Prática** com Arduino & sistemas embarcados  
+- 🏫 **Tecnologia Educacional** que torna o STEAM acessível
+- 💻 **Desenvolvimento Full-Stack** com foco em soluções inovadoras
+
+---
+
+## 🎓 Projeto Educacional em Destaque
+
+### 🤖 Simulador de Jogo FRC
+
+*Um simulador prático para ensino de conceitos de robótica através de jogos (FIRST Robotics Competition 2023/2024)*
+
+[![Experimente no Navegador](https://img.shields.io/badge/Web_Build-Jogável_Agora-2ea44f?style=for-the-badge&logo=unity)](https://emanuelfv.itch.io/frc-game-simulator)
+
+---
+
+## 📫 Conecte-se Comigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/emanuel-ferreira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/e.manuelfv" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/E-manuelfv" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://emanuelfv.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🎮 Desenvolvimento de Jogos
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender,cs" alt="Game Development Technologies" />
+</p>
+
+### 🤖 Robótica & Automação
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py" alt="Robotics Technologies" />
+</p>
+
+### 🌐 Desenvolvimento Full-Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,bootstrap" alt="Full-Stack Technologies" />
+</p>
+
+### 🔧 Ferramentas de Desenvolvimento
+<p>
+  <img src="https://skillicons.dev/icons?i=git,bash,vscode,github" alt="Development Tools" />
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  
+![E-manuelfv's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-manuelfv&show_icons=true&theme=gruvbox&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-manuelfv&layout=compact&theme=gruvbox&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitors](https://komarev.com/ghpvc/?username=e-manuelfv&color=22D3EE&style=flat-square)
+
+</div>
