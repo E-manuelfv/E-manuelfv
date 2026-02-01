@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=Emanuel%20Ferreira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=650&lines=Software+Engineer;Sistemas+Embarcados+%26+IoT;Firmware+%7C+Python+Backend;Integra%C3%A7%C3%A3o+Hardware+%2B+Software" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=650&lines=Software+Developer;Sistemas+Embarcados+%26+IoT;Firmware+%7C+Python+Backend;Integra%C3%A7%C3%A3o+Hardware+%2B+Software" alt="Typing SVG">
 </p>
 
 </div>
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Software Engineer em formação em Engenharia de Mecatrônica**, focado no desenvolvimento de **sistemas que conectam o mundo físico ao digital**.
+Sou um **Software Developer em formação em Engenharia de Mecatrônica**, focado no desenvolvimento de **sistemas que conectam o mundo físico ao digital**.
 
 Atuo principalmente com:
 
