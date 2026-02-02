@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Software Developer em formação em Engenharia de Mecatrônica**, focado no desenvolvimento de **sistemas que conectam o mundo físico ao digital**.
+Sou um **Desenvolvedor de Software em formação em Engenharia de Mecatrônica**, focado no desenvolvimento de **sistemas que conectam o mundo físico ao digital**.
 
 Atuo principalmente com:
 
