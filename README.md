@@ -1,110 +1,98 @@
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=Emanuel%20Ferreira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=731831&height=200&section=header&text=Emanuel%20Ferreira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=650&lines=Software+Developer;Sistemas+Embarcados+%26+IoT;Firmware+%7C+Python+Backend;Integra%C3%A7%C3%A3o+Hardware+%2B+Software" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=731831&center=true&width=650&lines=Software+Developer;Mechatronics+Engineering;Embedded+Systems+%26+IoT;Firmware+%7C+Python+Backend;Bridging+Hardware+%2B+Software" alt="Typing SVG">
 </p>
+
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=731831)](https://www.linkedin.com/in/emanuel-ferreira-1b64a5234)
+[![](https://img.shields.io/badge/Portfolio-Itch.io-white?style=for-the-badge&logo=itch.io&color=FA5C5C)](https://emanuelfv.itch.io/)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou um **Desenvolvedor de Software em formação em Engenharia de Mecatrônica**, focado no desenvolvimento de **sistemas que conectam o mundo físico ao digital**.
+I am a **Software Developer & Mechatronics Engineering** dedicated to building systems that bridge the gap between the physical and digital worlds. My expertise lies in creating scalable, data-driven solutions for hardware integration and industrial monitoring.
 
-Atuo principalmente com:
+- 🔌 **Firmware & Embedded Systems:** Specializing in ESP32, Arduino, and C/C++ architecture.
+- 📡 **IoT & Connectivity:** Experienced in MQTT protocols and seamless device-to-server integration.
+- 🐍 **Backend Development:** Building robust APIs and microservices using Python (Flask, FastAPI).
+- 🤖 **Applied Robotics:** Developing control logic and strategy for competitive environments (FIRST Robotics).
 
-- 🔌 **Firmware & Sistemas Embarcados** (ESP32, Arduino, C/C++)
-- 📡 **IoT & Comunicação** (MQTT, integração dispositivo–servidor)
-- 🐍 **Backend em Python** (Flask, FastAPI, bancos de dados)
-- 🤖 **Robótica Aplicada** em ambientes reais e competitivos (FIRST)
-
-Tenho experiência prática integrando **hardware, software e dados**, transformando sensores e atuadores em **soluções completas, monitoráveis e escaláveis**.  
-Minha vivência como educador e mentor reforça meu diferencial em **documentação, clareza técnica e pensamento sistêmico**.
+With a background as a technical mentor, I prioritize **clean documentation, systems thinking, and technical clarity** in every project I develop.
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🛠️ Tech Stack
 
-### 🤖 Simulador Técnico – FIRST Robotics Competition (FRC)
-
-*Simulador desenvolvido para estudo de estratégia, lógica de sistemas e operação em competições FRC.*
-
-- Simulação de comportamento de robôs
-- Ênfase em tomada de decisão e lógica de controle
-- Projeto usado como ferramenta educacional e técnica
-
-🔗 **Demo:**  
-[![Experimente no Navegador](https://img.shields.io/badge/-Jogável_Agora-2ea44f?style=for-the-badge&logo=unity)](https://emanuelfv.itch.io/frc-game-simulator)
-
----
-
-## 🧩 Áreas de Atuação
-
-- **Sistemas Embarcados & Firmware**
-- **IoT & Integração de Dispositivos**
-- **Backend Python para Sistemas Físicos**
-- **Automação, Robótica e Monitoramento**
-- **Simulação Técnica e Educação em Engenharia**
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 🧑‍💻 Linguagens
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,cs" />
+### 💻 Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,cs,bash" />
 </p>
 
-### 🔌 Embarcados & IoT
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+### 🔌 Embedded & IoT Ecosystem
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,githubactions" />
 </p>
 
-### 🌐 Backend & Dados
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite,firebase" />
+### 🌐 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite,firebase,docker" />
 </p>
 
-### 🔧 Ferramentas & Ambiente
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,bash,vscode,github,linux" />
-</p>
-
-### 🎮 Simulação & Visualização
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender" />
+### 🎮 Simulation & Visualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,blender,vscode" />
 </p>
 
 ---
 
-## 📫 Conecte-se Comigo
+## 🚀 Featured Project
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emanuel-ferreira-1b64a5234" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://emanuelfv.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
-  </a>
-</p>
+### 🤖 Technical Simulator – FIRST Robotics Competition (FRC)
+*Virtual training environment for robotics competition teams*
+
+- **Tech Stack:** Unity 3D, C#, VR, Blender.
+- **Highlights:** Developed real-time control systems and scoring logic, extended with Virtual Reality (VR) for immersive training.
+- **Impact:** Used as a technical education tool for driver training without physical hardware.
+
+<a href="https://emanuelfv.itch.io/frc-game-simulator" target="_blank">
+  <img src="https://img.shields.io/badge/-Play_Now_on_Browser-731831?style=for-the-badge&logo=unity&logoColor=white" />
+</a>
+
+### 🌾 AgroSense – Smart Agriculture IoT System
+*An end-to-end IoT solution for real-time environmental monitoring and automated irrigation.*
+- **Tech Stack**: ESP32, FastAPI, Digital Twin (Unity), PostgreSQL.
+- **Highlights**: Integrated soil sensors with a scalable data pipeline and created a Digital Twin visualization for physical-to-digital interaction.
+- **Impact**: Automated irrigation logic based on real-time sensor data analysis.
+
+### 💡 Real-Time IoT Lighting Dashboard
+*Embedded system with interactive visual feedback for luminance monitoring.*
+- **Tech Stack:** ESP32, WebSockets, Unity.
+- **Highlights:** Physical-to-digital pipeline enabling real-time transmission of sensor data to a 3D dashboard.
 
 ---
 
-## 📈 GitHub em Números
+## 📈 GitHub Analytics
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-manuelfv&layout=compact&theme=gruvbox&hide_border=true)
+
+| Top Languages | Profile Stats |
+| :---: | :---: |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-manuelfv&layout=compact&theme=flat&hide_border=true&title_color=731831&text_color=ffffff&bg_color=1a1a1a&langs_count=6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-manuelfv&show_icons=true&theme=flat&hide_border=true&title_color=731831&icon_color=731831&text_color=ffffff&bg_color=1a1a1a) |
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Visitors](https://komarev.com/ghpvc/?username=e-manuelfv&color=22D3EE&style=flat-square)
+
+**Total Profile Views** ![Visitors](https://komarev.com/ghpvc/?username=e-manuelfv&color=731831&style=flat-square)
+
+---
+*“Engineering is not just about building things, it’s about solving problems that matter.”*
 
 </div>
