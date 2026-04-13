@@ -76,15 +76,14 @@ With a background as a technical mentor, I prioritize **clean documentation, sys
 
 ---
 
+---
+
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-| Top Languages | Profile Stats |
-| :---: | :---: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-manuelfv&layout=compact&theme=flat&hide_border=true&title_color=731831&text_color=ffffff&bg_color=1a1a1a&langs_count=6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-manuelfv&show_icons=true&theme=flat&hide_border=true&title_color=731831&icon_color=731831&text_color=ffffff&bg_color=1a1a1a) |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=e-manuelfv&show_icons=true&theme=dark&title_color=731831&icon_color=731831&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-manuelfv&layout=compact&theme=dark&title_color=731831&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" width="42%" alt="Top Languages" />
+</p>
 
 ---
 
