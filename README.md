@@ -71,23 +71,12 @@ With a background as a technical mentor, I prioritize **clean documentation, sys
 
 ### 💡 Real-Time IoT Lighting Dashboard
 *Embedded system with interactive visual feedback for luminance monitoring.*
-- **Tech Stack:** ESP32, WebSockets, Unity.
-- **Highlights:** Physical-to-digital pipeline enabling real-time transmission of sensor data to a 3D dashboard.
+- **Tech Stack:** ESP32, WebSockets.
+- **Highlights:** Physical-to-digital pipeline enabling real-time transmission of sensor data to a dashboard.
 
 ---
 
----
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e-manuelfv&show_icons=true&theme=dark&title_color=731831&icon_color=731831&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-manuelfv&layout=compact&theme=dark&title_color=731831&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" width="42%" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
 
 **Total Profile Views** ![Visitors](https://komarev.com/ghpvc/?username=e-manuelfv&color=731831&style=flat-square)
 
